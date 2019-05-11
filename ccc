@@ -1,0 +1,12 @@
+[reader]
+label                         = s2.cccambird.com
+description                   = C: s2.cccambird.com 11700 98509119 cccambird
+protocol                      = cccam
+device                        = s2.cccambird.com,11700
+user                          = 98509119
+password                      = cccambird
+inactivitytimeout             = 30
+group                         = 1
+cccversion                    = 2.0.11
+ccckeepalive                  = 1
+audisabled                    = 1
